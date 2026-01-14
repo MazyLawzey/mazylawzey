@@ -47,7 +47,7 @@ What you see here is only the surface.
 
 ---
 
-## 📡 Contact
+## Contact
 
 If you know, you know.
 
