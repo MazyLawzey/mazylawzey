@@ -1,7 +1,5 @@
 # Hello, friend.
 
----
-
 ## About
 
 - I build systems that are meant to last.
@@ -34,8 +32,8 @@
 - Linux
 - Docker
 - Electron
-- Mysql
-- My own vsc extension
+- MySQL
+- Custom VS Code extension
 - Git
 
 ---
@@ -49,12 +47,6 @@ What you see here is only the surface.
 
 ---
 
-## Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mazylawzey&show_icons=true&hide_border=true&theme=dark)
-
----
-
 ## 📡 Contact
 
 If you know, you know.
@@ -62,8 +54,8 @@ If you know, you know.
 No socials.  
 No noise.
 
-southeast.off@gmail.com - for offers
-https://t.me/mazylawzey - for offers 2
+southeast.off@gmail.com  
+t.me/mazylawzey
 
 ---
 
