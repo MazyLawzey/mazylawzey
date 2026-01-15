@@ -54,8 +54,7 @@ If you know, you know.
 No socials.  
 No noise.
 
-southeast.off@gmail.com  
-t.me/mazylawzey
+iam@mazylawzey.ru
 
 ---
 
